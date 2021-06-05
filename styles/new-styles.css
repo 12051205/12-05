@@ -3,6 +3,11 @@ body {
     background-color: #708090;
     margin: 0px;
 }
+
+p {
+    padding:15px;
+}
+
 .main{
   padding-top: 50px;
 }
